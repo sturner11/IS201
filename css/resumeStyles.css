@@ -1,0 +1,44 @@
+.header {
+    top:5px;
+    left:5px;
+    right:5px;
+    height:50px;
+    background-color: rgb(139, 93, 59);
+    color: blanchedalmond;
+    font-size: large;
+    text-align: right;
+}
+body{
+    background-color:blanchedalmond;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: saddlebrown;
+    /* display: inline-block */
+
+}
+.footer {
+    bottom:5px;
+    left:5px;
+    right:5px;
+    height:50px;
+    background-color: rgb(139, 93, 59);
+    color: blanchedalmond;
+    position: relative;
+}
+.media{
+    left:700px;
+    /* right: 700px; */
+    height:50px;
+}
+.inline-block-child-main {
+    display: inline-block;
+  }
+.vid{
+    right: 10px;
+    transform: translate(50%,0%);
+}
+a:link {
+    color:rgb(161, 131, 122)
+}
+a:visited{
+    color: grey;
+}
